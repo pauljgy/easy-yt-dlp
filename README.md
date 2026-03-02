@@ -1,3 +1,5 @@
+# For aspiring dj friends
+
 Usage:
 
 1. In "links.txt", each line should have one youtube or soundcloud link
